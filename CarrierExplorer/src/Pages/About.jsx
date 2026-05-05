@@ -219,7 +219,7 @@ const About = () => {
                         Launch Your Dream Career
                     </h2>
                     <Link
-                        to="/assessment"
+                        to="/quiz"
                         className="inline-flex items-center gap-4 px-12 py-6 bg-gradient-to-r from-indigo-600 to-purple-600 text-white 
                       rounded-xl text-xl font-semibold hover:scale-105 transition-transform duration-300 shadow-lg
                       hover:shadow-xl"
